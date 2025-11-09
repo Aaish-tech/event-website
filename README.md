@@ -19,7 +19,7 @@ It’s built with HTML, Tailwind CSS and JavaScript to provide a seamless user e
 | Technology | Description |
 |-------------|-------------|
 | **HTML5** | Structure of the web pages |
-| **CSS3 / Tailwind CSS** | Styling and layout |
+| **Tailwind CSS** | Styling and layout |
 | **JavaScript (ES6)** | Interactive components and dynamic content |
 
 ---
